@@ -1,0 +1,6 @@
+com\mytaxi\MytaxiServiceApplicant\controller\CarControllerTest.class
+com\mytaxi\MytaxiServiceApplicant\service\CarServiceTest.class
+com\mytaxi\MytaxiServiceApplicant\service\DriverServiceTest.class
+com\mytaxi\MytaxiServiceApplicant\controller\DriverControllerTest.class
+com\mytaxi\MytaxiServiceApplicant\DataFile.class
+com\mytaxi\MytaxiServiceApplicant\MytaxiServiceApplicantApplicationTests.class
